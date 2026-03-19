@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # thinkmail-privacy
 
 <div align="center">
-  <img src="icon.png" alt="ThinkMail" width="72" height="72">
+
 
   <h1>ThinkMail</h1>
 
