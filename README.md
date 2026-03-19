@@ -93,7 +93,8 @@ Your emails are your business — not ours.
 
 > ThinkMail is currently in private beta. Chrome Web Store listing coming soon.
 
-To get early access, reach out at <a href="https://mail.google.com/mail/?view=cm&fs=1&to=thinkmail.app@gmail.com">thinkmail.app@gmail.com</a>
+To get early access, reach out at [thinkmail.app@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=thinkmail.app@gmail.com&su=ThinkMail%20Early%20Access)
+
 
 
 ---
