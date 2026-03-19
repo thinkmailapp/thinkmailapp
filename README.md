@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 A college student. Too many emails. Not enough time — or patience — to reply to all of them well.
 
-The usual routine was opening AI Tools in multiple tab, copying the email thread into it, writing a prompt, getting a generic reply that sounded nothing like her, and then editing it anyway. Every single time. For every single email.
+The usual routine was opening AI Tools in multiple tabs, copying the email thread into it, writing a prompt, getting a generic reply that sounded nothing like her, and then editing it anyway. Every single time. For every single email.
 
 She wasn't looking for a grammar checker. She wasn't looking for a tool that would make her sound more "professional" in the abstract. She wanted something that actually **read the situation** — who this person was, what had been said before, what the tone of the conversation was — and helped her respond in a way that made sense for that specific moment.
 
