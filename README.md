@@ -30,13 +30,15 @@ Here are some ideas to get you started:
 </div>
 
 ---
-![Screenshot 1](ThinkMail%20(1).png)
+![Screenshot 1](ThinkMail.png)
 
-![Screenshot 2](ThinkMail%20(2).png)
+![Screenshot 2](ThinkMail%20(1).png)
 
-![Screenshot 3](ThinkMail%20(3).png)
+![Screenshot 3](ThinkMail%20(2).png)
 
-![Screenshot 4](ThinkMail%20(4).png)
+![Screenshot 4](ThinkMail%20(3).png)
+
+![Screenshot 5](ThinkMail%20(4).png)
 
 ## The story
 
