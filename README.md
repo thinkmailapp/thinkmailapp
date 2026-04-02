@@ -19,6 +19,7 @@ Here are some ideas to get you started:
   <h1>ThinkMail</h1>
 
   <p><strong>Gmail that actually thinks before you send.</strong></p>
+  <p><strong>From intent to Inbox.</strong></p>
 
   <p>
     <img src="https://img.shields.io/badge/Chrome_Extension-v1.1-4285F4?style=flat-square&logo=googlechrome&logoColor=white">
