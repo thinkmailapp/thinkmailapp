@@ -107,5 +107,5 @@ To get early access, reach out at [thinkmail.app@gmail.com](https://mail.google.
 ---
 
 <div align="center">
-  <sub>Think before you send.</sub>
+  <sub>From Intent to Inbox.</sub>
 </div>
